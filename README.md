@@ -16,7 +16,8 @@ My credentials include a Master's in Envrironmental Sciences from the Post-Gradu
 **Background in:** Python, Geotechnologies, Environmental Sciences and Aplied Mathematics.
 
 **Links:**
-* [Lattes](bit.ly/4091rhL)
+* [Lattes](http://lattes.cnpq.br/80935
+91481570824)
 * [LinkedIn](https://www.linkedin.com/in/gabrielagodinhoreis/)
 
 
