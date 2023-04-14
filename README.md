@@ -7,7 +7,7 @@ My portfolio of data science projects
 </p>
 
 # Gabriela Reis
-<sub>*PhD student* at Université de La Réunion and Federal University of Western Pará Center</sub>
+<sub>*PhD student* at Université de La Réunion and Federal University of Western Pará</sub>
 
 As an aspiring Data Scientist and PhD student I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Exploratory Analysis and Data Visualization tecniques to scientific gaps in Brazilian Atmospheric Sciences, I developed a critical thinking and problem-solving skills.
 
