@@ -7,7 +7,7 @@ My portfolio of data science projects
 </p>
 
 # Gabriela Reis
-<sub>*PhD candidate* at Université de La Réunion and Federal University of Western Pará</sub>
+<sub>*PhD candidate* PhD candidate in Physics of the Atmosphere at the University of La Reunion (France) and PhD candidate in Environmental Sciences at the Postgraduate Program in Society, Nature and Development (PPGSND) (Brazil)</sub>
 
 As an aspiring Data Scientist and PhD candidate I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Exploratory Analysis and Data Visualization tecniques to scientific gaps in Brazilian Atmospheric Sciences, I developed a critical thinking and problem-solving skills.
 
