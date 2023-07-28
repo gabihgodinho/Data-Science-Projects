@@ -18,10 +18,13 @@ My credentials include a Master's in Envrironmental Sciences from the Post-Gradu
 **Links:**
 * [Lattes](http://lattes.cnpq.br/8093591481570824)
 * [LinkedIn](https://www.linkedin.com/in/gabrielagodinhoreis/)
-
+* [Medium](https://medium.com/@gabrielagodinho)
 
 ## Projetos:
 Veja meus tutoriais publicados:
+* [Extracting time series from multiple he5 files with Python](https://medium.com/@gabrielagodinho/a-brief-tutorial-on-how-to-extract-a-time-series-from-multiple-he5-files-1b75382b5e5b)
+* * [Creating a bank system with Pyhton]()
+* 
 
 
 ---
