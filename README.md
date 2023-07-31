@@ -9,7 +9,7 @@ My portfolio of data science projects
 # Gabriela Reis
 <sub>*PhD candidate* in Physics of the Atmosphere at the University of La Reunion (France) and *PhD candidate* in Environmental Sciences at the Postgraduate Program in Society, Nature and Development - PPGSND (Brazil)</sub>
 
-As an aspiring Data Scientist and PhD candidate I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Exploratory Analysis and Data Visualization tecniques to scientific gaps in Brazilian Atmospheric Sciences, I developed a critical thinking and problem-solving skills.
+I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Exploratory Analysis and Data Visualization tecniques to scientific gaps in Brazilian Atmospheric Sciences, I developed a critical thinking and problem-solving skills.
 
 My credentials include a Master's in Envrironmental Sciences from the Post-Graduate Program in Natural Resources of the Amazon (PPGRNA) from the Federal University of Western Pará (UFOPA), an institution of higher education and advanced research whose mission is to produce and socialize knowledge, contributing to citizenship, innovation and development in the Brazilian Amazon.  I also have a degree in Science and Technology and Engineering physics from the same University where I got my Master's degree. Period in which I began to gain experience in data analysis and modeling, with emphasis on environmental data, as well as in the application of geotechnologies and applied mathematics to urban studies.
 
@@ -25,6 +25,7 @@ Veja meus tutoriais publicados:
 * [Extracting time series from multiple he5 files with Python](https://medium.com/@gabrielagodinho/a-brief-tutorial-on-how-to-extract-a-time-series-from-multiple-he5-files-1b75382b5e5b)
 * [Creating a bank system with Pyhton](https://github.com/gabihgodinho/Data-Science-Projects/blob/main/Bank_system.ipynb)
 * [Improving the bank system](https://github.com/gabihgodinho/Data-Science-Projects/blob/main/Improved_Bank_system.ipynb)
+* [How to plot a proportional symbol map with Python](https://github.com/gabihgodinho/Data-Science-Projects/blob/main/Proportional_symbols.ipynb)
 
 
 
