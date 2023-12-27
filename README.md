@@ -22,6 +22,7 @@ My credentials include a Master's in Envrironmental Sciences from the Post-Gradu
 
 ## Projects:
 Check out my published tutorials: Data Science in Atmospheric Sciences
+* [Accessing Environmental Patterns: A Data Science approach to UV Time Series in a Brazilian Amazon site](https://colab.research.google.com/drive/1SasNAeRBJlNeyhE4kGzBUl-_Xn3O2-Jt?usp=sharing)
 * [Extracting time series from multiple he5 files with Python](https://medium.com/@gabrielagodinho/a-brief-tutorial-on-how-to-extract-a-time-series-from-multiple-he5-files-1b75382b5e5b)
 * [Dealing with cloud cover from METAR DATA using PYTHON](https://medium.com/@gabrielagodinho/dealing-with-cloud-cover-from-metar-data-using-python-1dbb7fcd60ec)
 * [Easy Guide to OMI & GOME-2 UV Index Data](https://medium.com/@gabrielagodinho/easy-guide-to-omi-gome-2-uv-index-data-83184ea7a4c1)
