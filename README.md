@@ -21,8 +21,12 @@ My credentials include a Master's in Envrironmental Sciences from the Post-Gradu
 * [Medium](https://medium.com/@gabrielagodinho)
 
 ## Projects:
-Check out my published tutorials:
+Check out my published tutorials: Data Science in Atmospheric Sciences
 * [Extracting time series from multiple he5 files with Python](https://medium.com/@gabrielagodinho/a-brief-tutorial-on-how-to-extract-a-time-series-from-multiple-he5-files-1b75382b5e5b)
+* [Dealing with cloud cover from METAR DATA using PYTHON](https://medium.com/@gabrielagodinho/dealing-with-cloud-cover-from-metar-data-using-python-1dbb7fcd60ec)
+* [Easy Guide to OMI & GOME-2 UV Index Data](https://medium.com/@gabrielagodinho/easy-guide-to-omi-gome-2-uv-index-data-83184ea7a4c1)
+
+Check out my published tutorials: Data Science Across Various Domains
 * [Creating a bank system with Pyhton](https://github.com/gabihgodinho/Data-Science-Projects/blob/main/Bank_system.ipynb)
 * [Improving the bank system](https://github.com/gabihgodinho/Data-Science-Projects/blob/main/Improved_Bank_system.ipynb)
 * [How to plot a proportional symbol map with Python](https://github.com/gabihgodinho/Data-Science-Projects/blob/main/Proportional_symbols.ipynb)
