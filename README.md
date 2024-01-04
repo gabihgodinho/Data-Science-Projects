@@ -22,7 +22,7 @@ My credentials include a Master's in Envrironmental Sciences from the Post-Gradu
 
 ## Projects:
 Check out my published tutorials: Data Science in Atmospheric Sciences
-* [Querying and Downloading Sentinel Satellite Data with Python]([https://medium.com/@gabrielagodinho](https://medium.com/@gabrielagodinho/querying-and-downloading-sentinel-satellite-data-with-python-80573e4b16f5)
+* [Querying and Downloading Sentinel Satellite Data with Python](https://medium.com/@gabrielagodinho/querying-and-downloading-sentinel-satellite-data-with-python-80573e4b16f5)
 * [Accessing Environmental Patterns: A Data Science approach to UV Time Series in a Brazilian Amazon site](https://github.com/gabihgodinho/Data-Science-Projects/blob/main/UV_patterns.ipynb)
 * [Extracting time series from multiple he5 files with Python](https://medium.com/@gabrielagodinho/a-brief-tutorial-on-how-to-extract-a-time-series-from-multiple-he5-files-1b75382b5e5b)
 * [Dealing with cloud cover from METAR DATA using PYTHON](https://medium.com/@gabrielagodinho/dealing-with-cloud-cover-from-metar-data-using-python-1dbb7fcd60ec)
