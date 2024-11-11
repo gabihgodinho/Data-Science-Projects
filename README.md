@@ -29,8 +29,6 @@ Check out my published tutorials: Data Science in Atmospheric Sciences
 * [Easy Guide to OMI & GOME-2 UV Index Data](https://medium.com/@gabrielagodinho/easy-guide-to-omi-gome-2-uv-index-data-83184ea7a4c1)
 
 Check out my published tutorials: Data Science Across Various Domains
-* [Creating a bank system with Pyhton](https://github.com/gabihgodinho/Data-Science-Projects/blob/main/Bank_system.ipynb)
-* [Improving the bank system](https://github.com/gabihgodinho/Data-Science-Projects/blob/main/Improved_Bank_system.ipynb)
 * [How to plot a proportional symbol map with Python](https://github.com/gabihgodinho/Data-Science-Projects/blob/main/Proportional_symbols.ipynb)
 
 
